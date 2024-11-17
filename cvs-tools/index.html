@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Siglent Oscilloscope SDS2000X-PLUS CSV Tools</h1>
+
+
+  <form>
+  <div id="file_1">
+  <label>File 1 : </label>	
+  <input type="file" id="inputfile_1" accept=".csv, .txt" onchange="readFile(this, 1)" />
+  <span id="content_1"></span>
+  <br>
+  </div>
+
+  <div id="file_2" hidden>
+  <label>File 2 : </label>	
+  <input type="file" id="inputfile_2" accept=".csv, .txt" onchange="readFile(this, 2)"/>
+  <span id="content_2"></span>
+  <br>
+  </div>
+
+  <div id="file_3" hidden>
+  <label>File 3 : </label>	
+  <input type="file" id="inputfile_3" accept=".csv, .txt" onchange="readFile(this, 3)"/>
+  <span id="content_3"></span>
+  <br>
+  </div>
+
+  <div id="file_4" hidden>
+  <label>File 4 : </label>	
+  <input type="file" id="inputfile_4" accept=".csv, .txt" onchange="readFile(this, 4)"/>
+  <span id="content_4"></span>
+  <br>
+  </div>
+
+  <div id="file_5" hidden>
+  <label>File 5 : </label>	
+  <input type="file" id="inputfile_5" accept=".csv, .txt" onchange="readFile(this, 5)"/>
+  <span id="content_5"></span>
+  <br>
+  </div>
+
+  <div id="file_6" hidden>
+  <label>File 6 : </label>	
+  <input type="file" id="inputfile_6" accept=".csv, .txt" onchange="readFile(this, 6)"/>
+  <span id="content_6"></span>
+  </div>
+
+  </form>
+
+  <br>
+  
+  <button id="button" onclick="convert(this)">OK</button>
+  <button id="button" onclick="copy(this)">Copy to clipboard</button>
+ 
+  <br>
+ 
+  <pre id="csvPre"></pre>
+  
+  <script type="text/javascript" src="./modules/papaparse.min.js"></script>
+  <script type="text/javascript" src="main.js"></script>
+  
+
+
+</body>
+
+</html>
