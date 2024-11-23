@@ -1,5 +1,5 @@
 title: Physique - BTS CIEL
 description: Sciences physiques en BTS CIEL
-show_downloads: true
-theme: minima
+show_downloads: false
+theme: jekyll-theme-architect
 
