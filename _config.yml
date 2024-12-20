@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: BTS CIEL - Physique
+description: Sciences physiques en BTS CIEL option B (Electronique et réseaux)
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://physique-bts-ciel.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
