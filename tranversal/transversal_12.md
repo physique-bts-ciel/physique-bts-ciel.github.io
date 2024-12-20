@@ -17,6 +17,6 @@ nav_order: 2
 > - Connaître et savoir utiliser la loi d’Ohm en régime sinusoïdal, les impédances complexes d’une résistance, d’un condensateur et d’une bobine.
 > - Connaître les équivalences d’un condensateur et d’une bobine en très basse fréquence et en haute fréquence.
 
-### Régime sinusoïdal
+## Signal sinusoïdal
 
-...
+[Régime sinusoïdal - TP1](/cours/CT11-regime-sinusoidal/bts-ciel_regime-sinusoidal_TP1.pdf)

@@ -20,10 +20,21 @@ nav_order: 3
 >   d’échantillonnage.*
 > - Connaître la définition de la profondeur mémoire d’un système de numérisation.
 
-### CAN et CNA (quantification)
+### Quantification d'une tension (CAN et CNA)
 
-...
+[CAN et CNA - Cours](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_cours.pdf)
 
-### Numérisation d'un signal (échantillonnage)
+[CAN et CNA - Exercices](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_exercices.pdf)
+
+[CAN et CNA - TP1](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_TP1.pdf)
+
+![](/cours/T23-numerisation-tension/carateristique_n_bits.png)
+
+[CAN et CNA - TP2](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_TP2.pdf)
+
+![](/cours/T23-numerisation-tension/MCP4725_caracteristique.png)
+
+
+### Echantillonnage
 
 ...

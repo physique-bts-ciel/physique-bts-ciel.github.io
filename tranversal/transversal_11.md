@@ -13,3 +13,17 @@ nav_order: 1
 > - Savoir calculer la résistance équivalente de deux ou plusieurs résistances en série et en parallèle.
 > - Savoir calculer la puissance, l’énergie fournie par un générateur ou consommée par un récepteur.
 > - Savoir calculer l’autonomie d’une batterie à partir de sa capacité.
+
+## Courant et tension électrique
+
+
+[Courant et tension électriques - Cours](/cours/C03-regime-continu/bts-ciel_courant-tension-electriques_cours.pdf)
+
+[Courant et tension électriques - Exercices](/cours/C03-regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
+
+
+## Dipôles en régime continu
+
+[Dipôles en régime continu - Cours](/cours/C03-regime-continu/bts-ciel_dipoles-regime-continu_cours.pdf)
+
+[Dipôles en régime continu - Exercices](/cours/C03-regime-continu/bts-ciel_dipoles-regime-continu_exercices.pdf)
