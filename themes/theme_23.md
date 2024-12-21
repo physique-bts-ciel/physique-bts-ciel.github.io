@@ -20,21 +20,33 @@ nav_order: 3
 >   d’échantillonnage.*
 > - Connaître la définition de la profondeur mémoire d’un système de numérisation.
 
-### Quantification d'une tension (CAN et CNA)
+## Quantification d'une tension (CAN et CNA)
 
-[CAN et CNA - Cours](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_cours.pdf)
+### Cours
 
-[CAN et CNA - Exercices](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_exercices.pdf)
+[CAN et CNA - Cours (PDF)](/cours/numerisation-tension/bts-ciel_CAN-CNA_cours.pdf)
 
-[CAN et CNA - TP1](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_TP1.pdf)
+### Exercices
 
-![](/cours/T23-numerisation-tension/carateristique_n_bits.png)
+[CAN et CNA - Exercices (PDF)](/cours/numerisation-tension/bts-ciel_CAN-CNA_exercices.pdf)
 
-[CAN et CNA - TP2](/cours/T23-numerisation-tension/bts-ciel_CAN-CNA_TP2.pdf)
+### TP1 - Caractérisation du CAN d'un Arduino Uno R3
 
-![](/cours/T23-numerisation-tension/MCP4725_caracteristique.png)
+[CAN et CNA - TP1 (PDF)](/cours/numerisation-tension/bts-ciel_CAN-CNA_TP1.pdf)
+
+![](/cours/numerisation-tension/arduino_uno_can_potentiometre.png)
+
+![](/cours/numerisation-tension/carateristique_n_bits.png)
+
+### TP2 - CNA - Étude d’un circuit MCP4725
+
+[CAN et CNA - TP2 (PDF)](/cours/numerisation-tension/bts-ciel_CAN-CNA_TP2.pdf)
+
+![](/cours/numerisation-tension/MCP4725_dfrobot.png)
+
+![](/cours/numerisation-tension/MCP4725_caracteristique.png)
 
 
-### Echantillonnage
+## Echantillonnage
 
 ...
