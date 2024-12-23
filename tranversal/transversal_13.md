@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1.3 - Adaptation d’impédance
-parent: CT1 - Lois générales de l’électricité
+parent: Lois générales de l’électricité
 nav_order: 3
 ---
 

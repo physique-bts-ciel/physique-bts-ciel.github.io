@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.4 - Réponse temporelle à un échelon
-parent: CT3 - Fonction filtrage. Structures de filtres analogiques et numériques
+parent: Fonction filtrage. Structures de filtres analogiques et numériques
 nav_order: 4
 ---
 

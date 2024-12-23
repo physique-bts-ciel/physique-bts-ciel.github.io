@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.3 - Diagramme de Bode
-parent: CT3 - Fonction filtrage. Structures de filtres analogiques et numériques
+parent: Fonction filtrage. Structures de filtres analogiques et numériques
 nav_order: 3
 ---
 

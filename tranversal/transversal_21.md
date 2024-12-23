@@ -13,6 +13,6 @@ nav_order: 1
 > - *Savoir régler un générateur pour produire un signal périodique dont les caractéristiques sont données.*
 
 
-[Représentation temporelle d’un signal - Cours](/cours/C04-representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_cours.pdf)
+[Représentation temporelle d’un signal - Cours](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_cours.pdf)
 
-[Représentation temporelle d’un signal - Exercices](/cours/C04-representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_exercices.pdf)
+[Représentation temporelle d’un signal - Exercices](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_exercices.pdf)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4.1 - Oscilloscope
-parent: CT4 - Appareils de mesure et banc de tests
+parent: Appareils de mesure et banc de tests
 nav_order: 1
 ---
 

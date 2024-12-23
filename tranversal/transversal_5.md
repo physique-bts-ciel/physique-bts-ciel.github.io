@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CT5 - Mesures et incertitudes
-nav_order: 9
+title: Mesures et incertitudes
+nav_order: 5
 ---
 
 # Connaissances tranversales
@@ -22,12 +22,12 @@ nav_order: 9
 
 ## Grandeurs et unités
 
-[Grandeurs et unités - Cours](/cours/C01-mesures-incertitudes/bts-ciel_grandeurs-et-unites_cours.pdf)
+[Grandeurs et unités - Cours](/cours/mesures-incertitudes/bts-ciel_grandeurs-et-unites_cours.pdf)
 
-[Grandeurs et unités - Exercices](/cours/C01-mesures-incertitudes/bts-ciel_grandeurs-et-unites_exercices.pdf)
+[Grandeurs et unités - Exercices](/cours/mesures-incertitudes/bts-ciel_grandeurs-et-unites_exercices.pdf)
 
 ## Mesures et incertitudes
 
-[Mesures et incertitudes - Cours](/cours/C01-mesures-incertitudes/bts-ciel_mesures-et-incertitudes_cours.pdf)
+[Mesures et incertitudes - Cours](/cours/mesures-incertitudes/bts-ciel_mesures-et-incertitudes_cours.pdf)
 
-[Mesures et incertitudes - Exercices](/cours/C01-mesures-incertitudes/bts-ciel_mesures-et-incertitudes_exercices.pdf)
+[Mesures et incertitudes - Exercices](/cours/mesures-incertitudes/bts-ciel_mesures-et-incertitudes_exercices.pdf)

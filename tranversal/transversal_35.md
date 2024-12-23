@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.5 - Filtrage numérique
-parent: CT3 - Fonction filtrage. Structures de filtres analogiques et numériques
+parent: Fonction filtrage. Structures de filtres analogiques et numériques
 nav_order: 5
 ---
 

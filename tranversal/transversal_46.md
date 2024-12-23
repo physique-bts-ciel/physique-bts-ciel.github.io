@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4.6 - Banc de tests
-parent: CT4 - Appareils de mesure et banc de tests
+parent: Appareils de mesure et banc de tests
 nav_order: 6
 ---
 

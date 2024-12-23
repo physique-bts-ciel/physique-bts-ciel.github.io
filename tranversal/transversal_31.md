@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.1 - Nature des filtres d’ordres 1 ou 2
-parent: CT3 - Fonction filtrage. Structures de filtres analogiques et numériques
+parent: Fonction filtrage. Structures de filtres analogiques et numériques
 nav_order: 1
 ---
 

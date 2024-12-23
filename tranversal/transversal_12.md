@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1.2 - Régime sinusoïdal
-parent: CT1 - Lois générales de l’électricité
+parent: Lois générales de l’électricité
 nav_order: 2
 ---
 
@@ -19,4 +19,4 @@ nav_order: 2
 
 ## Signal sinusoïdal
 
-[Régime sinusoïdal - TP1](/cours/CT11-regime-sinusoidal/bts-ciel_regime-sinusoidal_TP1.pdf)
+[Régime sinusoïdal - TP1](/cours/regime-sinusoidal/bts-ciel_regime-sinusoidal_TP1.pdf)

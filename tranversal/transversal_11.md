@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1.1 - Régime continu
-parent: CT1 - Lois générales de l’électricité
+parent: Lois générales de l’électricité
 nav_order: 1
 ---
 
@@ -17,13 +17,13 @@ nav_order: 1
 ## Courant et tension électrique
 
 
-[Courant et tension électriques - Cours](/cours/C03-regime-continu/bts-ciel_courant-tension-electriques_cours.pdf)
+[Courant et tension électriques - Cours](/cours/regime-continu/bts-ciel_courant-tension-electriques_cours.pdf)
 
-[Courant et tension électriques - Exercices](/cours/C03-regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
+[Courant et tension électriques - Exercices](/cours/regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
 
 
 ## Dipôles en régime continu
 
-[Dipôles en régime continu - Cours](/cours/C03-regime-continu/bts-ciel_dipoles-regime-continu_cours.pdf)
+[Dipôles en régime continu - Cours](/cours/regime-continu/bts-ciel_dipoles-regime-continu_cours.pdf)
 
-[Dipôles en régime continu - Exercices](/cours/C03-regime-continu/bts-ciel_dipoles-regime-continu_exercices.pdf)
+[Dipôles en régime continu - Exercices](/cours/regime-continu/bts-ciel_dipoles-regime-continu_exercices.pdf)
