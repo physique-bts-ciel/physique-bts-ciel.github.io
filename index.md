@@ -5,6 +5,8 @@ nav_order: 0
 nav_exclude: true
 ---
 
+Ce site regroupe des ressources pour l'enseignement des sciences physiques en BTS CIEL option B (Electronique et Réseaux)
+
 ## Connaissances tranversales
 
 [Lois générales de l’électricité](/tranversal/transversal_1)
@@ -32,4 +34,3 @@ nav_exclude: true
 
 ## Python
 
-## Matériel
