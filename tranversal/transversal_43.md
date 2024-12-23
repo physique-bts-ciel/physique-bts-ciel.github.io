@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4.3 - Multimètre
-parent: Appareils de mesure et banc de tests
+parent: 4- Appareils de mesure et banc de tests
 nav_order: 3
 ---
 

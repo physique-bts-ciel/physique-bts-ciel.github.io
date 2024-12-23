@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.2 - Représentation fréquentielle d’un signal
-parent: Analyse et caractérisation temporelle et fréquentielle des signaux
+parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 2
 ---
 

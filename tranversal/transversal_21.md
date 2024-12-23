@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.1 - Représentation temporelle d’un signal
-parent: CT2 - Analyse et caractérisation temporelle et fréquentielle des signaux
+parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 1
 ---
 

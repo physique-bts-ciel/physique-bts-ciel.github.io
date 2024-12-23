@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.5 - Filtrage numérique
-parent: Fonction filtrage. Structures de filtres analogiques et numériques
+parent: 3- Fonction filtrage, structures de filtres analogiques et numériques
 nav_order: 5
 ---
 

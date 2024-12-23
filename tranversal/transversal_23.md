@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.3 - Le bruit
-parent: Analyse et caractérisation temporelle et fréquentielle des signaux
+parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 3
 ---
 

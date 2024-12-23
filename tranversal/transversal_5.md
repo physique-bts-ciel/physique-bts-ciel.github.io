@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mesures et incertitudes
+title: 5- Mesures et incertitudes
 nav_order: 5
 ---
 
@@ -22,12 +22,20 @@ nav_order: 5
 
 ## Grandeurs et unités
 
+### Cours
+
 [Grandeurs et unités - Cours](/cours/mesures-incertitudes/bts-ciel_grandeurs-et-unites_cours.pdf)
+
+### Exercices
 
 [Grandeurs et unités - Exercices](/cours/mesures-incertitudes/bts-ciel_grandeurs-et-unites_exercices.pdf)
 
 ## Mesures et incertitudes
 
+### Cours
+
 [Mesures et incertitudes - Cours](/cours/mesures-incertitudes/bts-ciel_mesures-et-incertitudes_cours.pdf)
+
+### Exercices
 
 [Mesures et incertitudes - Exercices](/cours/mesures-incertitudes/bts-ciel_mesures-et-incertitudes_exercices.pdf)

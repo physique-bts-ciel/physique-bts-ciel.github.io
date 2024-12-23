@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1.2 - Régime sinusoïdal
-parent: Lois générales de l’électricité
+parent: 1- Lois générales de l’électricité
 nav_order: 2
 ---
 
