@@ -5,6 +5,7 @@ parent: Thème 1 - Acquérir l’information
 nav_order: 1
 ---
 
+# Thème 1 - Acquérir l’information
 
 ## 1.1 - La grandeur mesurée
 

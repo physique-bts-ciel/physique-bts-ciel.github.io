@@ -5,6 +5,8 @@ parent: 3- Fonction filtrage, structures de filtres analogiques et numériques
 nav_order: 5
 ---
 
+# Connaissances tranversales
+
 ## 3.5 - Filtrage numérique
 
 - Savoir identifier une équation de récurrence récursive ou non récursive.

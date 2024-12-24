@@ -5,6 +5,8 @@ parent: Thème 2 - Traiter l’information
 nav_order: 2
 ---
 
+# Thème 2 - Traiter l'information
+
 ## 2.2 - Fonctions obtention, amplification et décalage de tension
 
 > - Savoir identifier la structure permettant de convertir la grandeur mesurée en une tension électrique.

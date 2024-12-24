@@ -5,6 +5,8 @@ parent: Thème 4 - Utiliser l'information
 nav_order: 1
 ---
 
+# Thème 4 - Utiliser l'information
+
 ## 4.1 - Commande d’actionneurs
 
 > - Savoir identifier la partie commande et la partie puissance sur un système.

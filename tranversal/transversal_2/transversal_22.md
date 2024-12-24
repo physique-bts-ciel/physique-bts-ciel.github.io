@@ -5,6 +5,8 @@ parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 2
 ---
 
+# Connaissances tranversales
+
 ## 2.2 - Représentation fréquentielle d’un signal
 
 > - Savoir utiliser la décomposition d’un signal périodique en une somme de sinusoïdes ; relation temps fréquence entre les deux représentations.

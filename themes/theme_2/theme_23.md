@@ -5,6 +5,8 @@ parent: Thème 2 - Traiter l’information
 nav_order: 3
 ---
 
+# Thème 2 - Traiter l'information
+
 ## 2.3 - Numérisation d’une tension
 
 > - Connaître et savoir appliquer la condition de Shannon.

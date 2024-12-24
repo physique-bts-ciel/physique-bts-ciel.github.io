@@ -5,6 +5,8 @@ parent: 4- Appareils de mesure et banc de tests
 nav_order: 6
 ---
 
+# Connaissances tranversales
+
 ## 4.6 - Banc de tests
 
 > - Définir le rôle du banc de test dans la validation de tout ou partie d’une carte électronique.

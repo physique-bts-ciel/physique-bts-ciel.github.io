@@ -5,6 +5,8 @@ parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 3
 ---
 
+# Connaissances tranversales
+
 ## 2.3 - Le bruit
 
 > - *Identifier un bruit blanc à l’aide de la densité spectrale de puissance.*

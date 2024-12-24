@@ -5,6 +5,8 @@ parent: Thème 4 - Utiliser l'information
 nav_order: 4
 ---
 
+# Thème 4 - Utiliser l'information
+
 ## 4.3 - Correction analogique ou numérique
 
 > - Savoir positionner un correcteur dans le schéma fonctionnel d’un système asservi.

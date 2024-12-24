@@ -5,6 +5,8 @@ parent: Thème 2 - Traiter l’information
 nav_order: 1
 ---
 
+# Thème 2 - Traiter l'information
+
 ## 2.1 - La chaîne de mesure
 
 > - Savoir identifier les fonctions d’une chaîne de mesure (conversion d’une grandeur en tension, amplification/décalage, numérisation, etc.).

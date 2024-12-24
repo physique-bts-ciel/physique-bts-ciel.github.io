@@ -5,6 +5,8 @@ parent: 4- Appareils de mesure et banc de tests
 nav_order: 1
 ---
 
+# Connaissances tranversales
+
 ## 4.1 - Oscilloscope
 
 > - *Brancher et régler un oscilloscope (déviation verticale, horizontale déclenchement, etc.) pour visualiser un signal (périodique, non périodique, transitoire, trame, etc.).*

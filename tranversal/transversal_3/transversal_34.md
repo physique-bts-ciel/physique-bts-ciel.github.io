@@ -5,6 +5,7 @@ parent: 3- Fonction filtrage, structures de filtres analogiques et numériques
 nav_order: 4
 ---
 
+# Connaissances tranversales
 
 ## 3.4 - Réponse temporelle à un échelon
 

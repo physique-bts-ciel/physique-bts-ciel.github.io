@@ -5,6 +5,7 @@ parent: 1- Lois générales de l’électricité
 nav_order: 2
 ---
 
+# Connaissances tranversales
 
 ## 1.2 - Régime sinusoïdal
 

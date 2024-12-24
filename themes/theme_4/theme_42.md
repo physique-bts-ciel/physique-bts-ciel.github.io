@@ -5,6 +5,8 @@ parent: Thème 4 - Utiliser l'information
 nav_order: 2
 ---
 
+# Thème 4 - Utiliser l'information
+
 ## 4.2 - Performances d’un système bouclé
 
 > - Identifier et connaître les différents éléments fonctionnels d’un système asservi.

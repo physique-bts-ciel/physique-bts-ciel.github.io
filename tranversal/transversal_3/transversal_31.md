@@ -5,6 +5,8 @@ parent: 3- Fonction filtrage, structures de filtres analogiques et numériques
 nav_order: 1
 ---
 
+# Connaissances tranversales
+
 ## 3.1 - Nature des filtres d’ordres 1 ou 2
 
 > - Savoir identifier la nature d’un filtre et son ordre à partir de sa fonction de transfert (passe haut, passe-bas, passe bande).

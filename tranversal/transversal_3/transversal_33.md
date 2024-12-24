@@ -5,6 +5,8 @@ parent: 3- Fonction filtrage, structures de filtres analogiques et numériques
 nav_order: 3
 ---
 
+# Connaissances tranversales
+
 ## 3.3 - Diagramme de Bode
 
 - Savoir déterminer le gain (en dB) à une fréquence donnée à partir du diagramme de

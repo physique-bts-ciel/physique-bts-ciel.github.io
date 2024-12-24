@@ -5,6 +5,7 @@ parent: 2- Analyse et caractérisation temporelle et fréquentielle des signaux
 nav_order: 1
 ---
 
+# Connaissances tranversales
 
 ## 2.1 - Représentation temporelle d’un signal
 

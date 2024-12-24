@@ -5,6 +5,8 @@ parent: Thème 1 - Acquérir l’information
 nav_order: 2
 ---
 
+# Thème 1 - Acquérir l’information
+
 ## 1.2 - Les capteurs
 
 > - Savoir identifier les grandeurs d’entrée et de sortie d’un capteur et son type (analogique, intégré, numérique, Tout ou Rien (T.O.R.)).
