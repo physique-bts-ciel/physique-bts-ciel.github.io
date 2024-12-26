@@ -6,3 +6,10 @@ url: https://physique-bts-ciel.github.io
 
 aux_links:
  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
+ 
+  
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: G-54F5QPMENM
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+

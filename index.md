@@ -9,15 +9,15 @@ Ce site regroupe des ressources pour l'enseignement des sciences physiques en BT
 
 ## Connaissances tranversales
 
-[Lois générales de l’électricité](/tranversal/transversal_1/transversal_1)
+[1- Lois générales de l’électricité](/tranversal/transversal_1/transversal_1)
 
-[Analyse et caractérisation temporelle et fréquentielle des signaux](/tranversal/transversal_2/transversal_2)
+[2- Analyse et caractérisation temporelle et fréquentielle des signaux](/tranversal/transversal_2/transversal_2)
 
-[Fonction filtrage. Structures de filtres analogiques et numériques](/tranversal/transversal_3/transversal_3)
+[3- Fonction filtrage. Structures de filtres analogiques et numériques](/tranversal/transversal_3/transversal_3)
 
-[Appareils de mesure et banc de tests](/tranversal/transversal_4/transversal_4)
+[4- Appareils de mesure et banc de tests](/tranversal/transversal_4/transversal_4)
 
-[Mesures et incertitudes](/tranversal/transversal_5/transversal_5)
+[5- Mesures et incertitudes](/tranversal/transversal_5/transversal_5)
 
 ## Thèmes
 
