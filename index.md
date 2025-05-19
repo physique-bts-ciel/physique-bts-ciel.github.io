@@ -25,7 +25,7 @@ Ce site regroupe des ressources pour l'enseignement des sciences physiques en BT
 
 [Thème 2 - Traiter l’information](themes/theme_2/theme_2)
 
-[Thème 3 - Transporter l'information](themes/theme_3/theme_3)
+[Thème 3 - Transporter l'information](themes/theme_3/theme_3)
 
 [Thème 4 - Utiliser l'information](themes/theme_4/theme_4)
 
