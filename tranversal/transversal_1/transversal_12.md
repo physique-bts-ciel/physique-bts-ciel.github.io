@@ -20,4 +20,3 @@ nav_order: 2
 
 ## Signal sinusoïdal
 
-[Régime sinusoïdal - TP1](/cours/regime-sinusoidal/bts-ciel_regime-sinusoidal_TP1.pdf)

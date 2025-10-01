@@ -22,9 +22,19 @@ nav_order: 1
 
 [Courant et tension électriques - Exercices](/cours/regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
 
+[Courant et tension électriques - TP1](/cours/regime-continu/bts-ciel_courant-tension-electriques_TP1.pdf)
+
 
 ## Dipôles en régime continu
 
 [Dipôles en régime continu - Cours](/cours/regime-continu/bts-ciel_dipoles-regime-continu_cours.pdf)
 
 [Dipôles en régime continu - Exercices](/cours/regime-continu/bts-ciel_dipoles-regime-continu_exercices.pdf)
+
+[Dipôles en régime continu - TP1](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP1.pdf)
+
+[Dipôles en régime continu - TP2](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP2.pdf)
+
+[Dipôles en régime continu - TP3](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP3.pdf)
+
+[Dipôles en régime continu - TP4](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP4.pdf)

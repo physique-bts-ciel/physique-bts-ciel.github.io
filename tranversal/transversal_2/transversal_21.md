@@ -17,3 +17,7 @@ nav_order: 1
 [Représentation temporelle d’un signal - Cours](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_cours.pdf)
 
 [Représentation temporelle d’un signal - Exercices](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_exercices.pdf)
+
+[Représentation temporelle d’un signal - TP1](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP1.pdf)
+
+[Représentation temporelle d’un signal - TP2](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP2.pdf)
