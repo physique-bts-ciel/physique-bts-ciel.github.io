@@ -5,7 +5,9 @@ nav_order: 0
 nav_exclude: true
 ---
 
-Ce site regroupe des ressources pour l'enseignement des sciences physiques en BTS CIEL option B (Electronique et Réseaux)
+Ce site (en cours de construction) regroupe des ressources pour l'enseignement des sciences physiques en BTS CIEL option B (Electronique et Réseaux).
+
+
 
 ## Connaissances transversales
 
@@ -17,7 +19,7 @@ Ce site regroupe des ressources pour l'enseignement des sciences physiques en BT
 
 [Appareils de mesure et banc de tests](/transversal/appareils_mesures_et_banc_tests)
 
-[Mesures et incertitudes](/transversal/mesures_et_incertitudes.md)
+[Mesures et incertitudes](/transversal/mesures_et_incertitudes)
 
 ## Thèmes
 
