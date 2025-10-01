@@ -25,13 +25,23 @@ nav_order: 2
 
 ### TP - Valeurs moyenne et efficace d’un signal périodique
 
-[Représentation temporelle d’un signal - TP1](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP1.pdf)
+Mesures de période, fréquence, valeur moyenne et valeur efficace à l'oscilloscope.
+
+Énonce : [Représentation temporelle d’un signal - TP1](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP1.pdf)
+
+Signal CSV pour GBF Siglent + source Python  : [TP1_signal_CSV.zip](/cours/representation-temporelle-signaux/TP1_signal_CSV.zip)
+
+![](/cours/representation-temporelle-signaux/TP1_scope.png)
 
 ### TP - Composante alternative d’un signal périodique
 
-[Représentation temporelle d’un signal - TP2](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP2.pdf)
+Mesures et calculs des valeur moyenne et valeur efficace. Obtention de la composante alternative.
 
+Énoncé : [Représentation temporelle d’un signal - TP2](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP2.pdf)
 
+Signal CSV pour GBF Siglent + source Python  : [TP2_signal_CSV.zip](/cours/representation-temporelle-signaux/TP2_signal_CSV.zip)
+
+![](/cours/representation-temporelle-signaux/TP2_scope.png)
 
 ## Représentation fréquentielle d’un signal
 

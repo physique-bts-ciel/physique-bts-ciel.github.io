@@ -31,15 +31,17 @@ nav_order: 1
 
 ### TP - Courants, potentiels et tensions électriques
 
-[Courant et tension électriques - TP1](/cours/regime-continu/bts-ciel_courant-tension-electriques_TP1.pdf)
+Énoncé : [Courant et tension électriques - TP1](/cours/regime-continu/bts-ciel_courant-tension-electriques_TP1.pdf)
 
 ### TP - Etude d’une lampe à incandescence
 
-[Dipôles en régime continu - TP1](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP1.pdf)
+Énoncé :  [Dipôles en régime continu - TP1](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP1.pdf)
 
 ### TP - Résistance électrique - Loi d'Ohm
 
-[Dipôles en régime continu - TP2](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP2.pdf)
+Énoncé :  [Dipôles en régime continu - TP2](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP2.pdf)
+
+![](/cours/regime-continu/resistance_caracteristique.png)
 
 ### TP - Association de résistances - Résistance équivalente - Diviseur de tension
 
@@ -47,7 +49,9 @@ nav_order: 1
 
 ### TP - Étude d’une pile - Modèle équivalent de Thévenin
 
-[Dipôles en régime continu - TP4](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP4.pdf)
+Énoncé : [Dipôles en régime continu - TP4](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP4.pdf)
+
+![](/cours/regime-continu/pile_desmos_full.png)
 
 
 
