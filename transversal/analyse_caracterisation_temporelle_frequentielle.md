@@ -15,12 +15,19 @@ nav_order: 2
 > - Savoir déterminer les caractéristiques d’un signal périodique (période, fréquence, valeur moyenne, valeur efficace, valeur maximale, valeur crête à crête).
 > - *Savoir régler un générateur pour produire un signal périodique dont les caractéristiques sont données.*
 
+### Cours
 
 [Représentation temporelle d’un signal - Cours](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_cours.pdf)
 
+### Exercices
+
 [Représentation temporelle d’un signal - Exercices](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_exercices.pdf)
 
+### TP - Valeurs moyenne et efficace d’un signal périodique
+
 [Représentation temporelle d’un signal - TP1](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP1.pdf)
+
+### TP - Composante alternative d’un signal périodique
 
 [Représentation temporelle d’un signal - TP2](/cours/representation-temporelle-signaux/bts-ciel_representation-temporelle-signaux_TP2.pdf)
 

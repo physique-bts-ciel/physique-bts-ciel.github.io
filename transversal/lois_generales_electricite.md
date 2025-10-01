@@ -16,27 +16,36 @@ nav_order: 1
 > - Savoir calculer la puissance, l’énergie fournie par un générateur ou consommée par un récepteur.
 > - Savoir calculer l’autonomie d’une batterie à partir de sa capacité.
 
-### Courant et tension électrique
+### Cours
 
 
 [Courant et tension électriques - Cours](/cours/regime-continu/bts-ciel_courant-tension-electriques_cours.pdf)
 
-[Courant et tension électriques - Exercices](/cours/regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
-
-[Courant et tension électriques - TP1](/cours/regime-continu/bts-ciel_courant-tension-electriques_TP1.pdf)
-
-
-### Dipôles en régime continu
-
 [Dipôles en régime continu - Cours](/cours/regime-continu/bts-ciel_dipoles-regime-continu_cours.pdf)
+
+### Exercices
+
+[Courant et tension électriques - Exercices](/cours/regime-continu/bts-ciel_courant-tension-electriques_exercices.pdf)
 
 [Dipôles en régime continu - Exercices](/cours/regime-continu/bts-ciel_dipoles-regime-continu_exercices.pdf)
 
+### TP - Courants, potentiels et tensions électriques
+
+[Courant et tension électriques - TP1](/cours/regime-continu/bts-ciel_courant-tension-electriques_TP1.pdf)
+
+### TP - Etude d’une lampe à incandescence
+
 [Dipôles en régime continu - TP1](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP1.pdf)
+
+### TP - Résistance électrique - Loi d'Ohm
 
 [Dipôles en régime continu - TP2](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP2.pdf)
 
+### TP - Association de résistances - Résistance équivalente - Diviseur de tension
+
 [Dipôles en régime continu - TP3](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP3.pdf)
+
+### TP - Étude d’une pile - Modèle équivalent de Thévenin
 
 [Dipôles en régime continu - TP4](/cours/regime-continu/bts-ciel_dipoles-regime-continu_TP4.pdf)
 
