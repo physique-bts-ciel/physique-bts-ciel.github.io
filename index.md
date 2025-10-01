@@ -9,24 +9,24 @@ Ce site regroupe des ressources pour l'enseignement des sciences physiques en BT
 
 ## Connaissances transversales
 
-[Lois générales de l’électricité](/transversal/transversal_1/transversal_1)
+[Lois générales de l’électricité](/transversal/lois_generales_electricite)
 
-[Analyse et caractérisation temporelle et fréquentielle des signaux](/transversal/transversal_2/transversal_2)
+[Analyse et caractérisation temporelle et fréquentielle des signaux](/transversal/analyse_caracterisation_temporelle_frequentielle)
 
-[Fonction filtrage. Structures de filtres analogiques et numériques](/transversal/transversal_3/transversal_3)
+[Fonction filtrage. Structures de filtres analogiques et numériques](/transversal/filtrage_analogique_numerique)
 
-[Appareils de mesure et banc de tests](/transversal/transversal_4/transversal_4)
+[Appareils de mesure et banc de tests](/transversal/appareils_mesures_et_banc_tests)
 
-[Mesures et incertitudes](/transversal/transversal_5/transversal_5)
+[Mesures et incertitudes](/transversal/mesures_et_incertitudes.md)
 
 ## Thèmes
 
-[Thème 1 - Acquérir l’information](themes/theme_1/theme_1)
+[Thème 1 - Acquérir l’information](themes/acquerir_information/index)
 
-[Thème 2 - Traiter l’information](themes/theme_2/theme_2)
+[Thème 2 - Traiter l’information](themes/traiter_information/index)
 
-[Thème 3 - Transporter l'information](themes/theme_3/theme_3)
+[Thème 3 - Transporter l'information](themes/transporter_information/index)
 
-[Thème 4 - Utiliser l'information](themes/theme_4/theme_4)
+[Thème 4 - Utiliser l'information](themes/utiliser_infromation/index)
 
 
