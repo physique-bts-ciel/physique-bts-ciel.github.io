@@ -7,17 +7,17 @@ nav_exclude: true
 
 Ce site regroupe des ressources pour l'enseignement des sciences physiques en BTS CIEL option B (Electronique et Réseaux)
 
-## Connaissances tranversales
+## Connaissances transversales
 
-[1- Lois générales de l’électricité](/tranversal/transversal_1/transversal_1)
+[Lois générales de l’électricité](/transversal/transversal_1/transversal_1)
 
-[2- Analyse et caractérisation temporelle et fréquentielle des signaux](/tranversal/transversal_2/transversal_2)
+[Analyse et caractérisation temporelle et fréquentielle des signaux](/transversal/transversal_2/transversal_2)
 
-[3- Fonction filtrage. Structures de filtres analogiques et numériques](/tranversal/transversal_3/transversal_3)
+[Fonction filtrage. Structures de filtres analogiques et numériques](/transversal/transversal_3/transversal_3)
 
-[4- Appareils de mesure et banc de tests](/tranversal/transversal_4/transversal_4)
+[Appareils de mesure et banc de tests](/transversal/transversal_4/transversal_4)
 
-[5- Mesures et incertitudes](/tranversal/transversal_5/transversal_5)
+[Mesures et incertitudes](/transversal/transversal_5/transversal_5)
 
 ## Thèmes
 
@@ -29,8 +29,4 @@ Ce site regroupe des ressources pour l'enseignement des sciences physiques en BT
 
 [Thème 4 - Utiliser l'information](themes/theme_4/theme_4)
 
-
-
-
-## Python
 
